@@ -1,1 +1,8 @@
-{}
+{
+  "Name": "Title",
+  "Channel": "Channel",
+  "Description": "Description",
+  "Seasons": "Seasons",
+  "Figure": "Figure 1. Number of seosons for each serie",
+  "URL": "https://gist.githubusercontent.com/josejbocanegra/5dc69cb7feb7945ef58b9c3d84be2635/raw/64146e99e4416da3a8be2e2da4156cb87b3f6fd0/series-en.json"
+}

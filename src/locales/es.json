@@ -1,1 +1,8 @@
-{}
+{
+  "Name": "Titulo",
+  "Channel": "Canal",
+  "Description": "Descripción",
+  "Seasons": "Temporadas",
+  "Figure": "Figura 1. Número de temporadas por cada serie",
+  "URL": "https://gist.githubusercontent.com/josejbocanegra/c55d86de9e0dae79e3308d95e78f997f/raw/d9eb0701f6b495dac63bbf59adc4614a9eb5fbc8/series-es.json"
+}
